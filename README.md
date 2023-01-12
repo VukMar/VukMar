@@ -4,6 +4,9 @@
 - 🧑‍🍳 I was a chef, but my dream is IT
 - 👨‍🎓 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VukMar&show_icons=true&theme=transparent)
+
+
 [![Bojans's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VukMar&theme=react-dark)](https://github.com/basskibo/github-readme-activity-graph)
 
 
