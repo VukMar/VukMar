@@ -6,7 +6,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VukMar&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VukMar&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VukMar&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Bojans's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VukMar&theme=react-dark)](https://github.com/basskibo/github-readme-activity-graph)
 
