@@ -8,9 +8,6 @@
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VukMar&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Bojans's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VukMar&theme=react-dark)](https://github.com/basskibo/github-readme-activity-graph)
-
-
 <!---
 VukMar/VukMar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
