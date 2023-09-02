@@ -6,7 +6,7 @@
 
 👨‍💻 Eager to learn, I'm always excited about acquiring new knowledge and pushing my boundaries.
 
-🧑‍🍳 In a past life, I was a chef, but my true passion lies in the realm of IT.
+🧑‍🍳 I was a chef, but my true passion lies in the realm of IT.
 
 🔭 I'm passionate about creating meaningful projects that make a difference.
 
