@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm VukMar
+### 👋 Hi there, I'm Vuk Maric
 
 🌱 I'm an aspiring developer in the early stages of my career, exploring the worlds of C++ projects and web development.
 
